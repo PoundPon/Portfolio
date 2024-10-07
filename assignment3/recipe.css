@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(255, 247, 237);
+}
+
+#menu {
+    background-color: rgb(255, 210, 176);
+    margin-left: 600px;
+    margin-right: 600px;
+    padding: 5px;
+    border: 5px solid rgb(253, 172, 79);
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+img {
+    width: 12%;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+div {
+    text-align: center;
+}
+
+div img {
+    width: 15%;
+}
+
+li {
+    padding-bottom: 10px;
+}
+
+p {
+    margin-left: 10px;
+}
+
+.bgtext {
+    background-color: antiquewhite;
+    text-align: left;
+    border: 2px solid rgb(223, 177, 118);
+    border-radius: 10px;
+    margin-right: 200px;
+    margin-left: 10px;
+}
+
+.topic {
+    display: flex;
+    justify-content: center;
+}
+
+.layout {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+}

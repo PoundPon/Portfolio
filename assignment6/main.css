@@ -1,0 +1,23 @@
+legend{
+    color: rgb(203, 163, 94);
+    font-size: larger;
+    font-weight: bold;
+    background-color:rgb(241, 227, 185);
+    border: 4px solid rgb(208, 192, 172);
+    border-radius: 4px;
+    padding: 5px;
+}
+body{
+    background-color:beige;
+}
+fieldset{
+    color: rgb(203, 163, 94);
+    background-color: rgb(247, 244, 187);
+    border: 5px solid rgb(208, 192, 172);
+    border-radius: 5px;
+}
+input{
+    color:  rgb(191, 133, 61);
+    background-color: rgb(241, 227, 185);
+    border: 2px solid rgb(208, 192, 172);
+}

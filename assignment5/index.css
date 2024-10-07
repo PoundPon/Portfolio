@@ -1,0 +1,21 @@
+h1 {
+    color: rgb(70, 126, 107);
+}
+div {
+    color: rgb(99, 179, 168);
+    background-color: rgb(248, 252, 252);
+    font-size: larger;
+}
+#reply2,#reply1{
+    color: rgb(109, 201, 170);
+    background-color: rgb(248, 252, 252);
+    font-size: medium;
+}
+textarea{
+    color: cadetblue;
+    border: 2px solid cadetblue;
+}
+button{
+    color: rgb(227, 247, 244);
+    background-color: rgb(126, 168, 154);
+}
